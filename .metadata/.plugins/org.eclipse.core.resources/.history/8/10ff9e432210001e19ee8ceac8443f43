@@ -13,7 +13,6 @@ public class ArrayBorder {
 		int size = s.nextInt();
 		String[] arr = new String[size];
 		
-		System.out.println("Enter Array Strings - ");
 		for(int i=0;i<size;i++) {
 			arr[i]=s.next();
 		}
