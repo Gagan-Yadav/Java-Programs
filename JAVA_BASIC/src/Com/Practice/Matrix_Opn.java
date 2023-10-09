@@ -1,7 +1,6 @@
 package Com.Practice;
 import java.util.Scanner;
 
-
 public class Matrix_Opn {
 
 	Matrix_Opn(){
