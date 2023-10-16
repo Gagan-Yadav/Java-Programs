@@ -5,36 +5,36 @@ public class ArrayEx {
 	public static void main(String[] args) {
 		MI a1 = new MI();
 		int a=0;
-//		do {
-//		System.out.println(" 0. Exit \n 1. Character Array \n 2. Number Array \n 3. Mirror Inverse \n ");
-//		System.out.print("Enter Your Choice : ");
-//
-//         Scanner s1 = new Scanner(System.in);
-//          a = s1.nextInt();
-//          if(a==1)
-//          {
-//         	 ca h = new ca();
-//         	 h.get();
-//          }
-//          else if(a==2)
-//         {
-//		ea c = new ea();
-//		c.get();
-//         }
-//         else if(a==0)
-//         {
-//        	 System.exit(0);
-//         }
-//         else if(a==3)
-//         {
-//        	 MI h = new MI();
-//        	 h.get();
-//         }
-//		}while(a!=0);
-//	}
-//
-//}
-//class ea extends ArrayEx{
+		do {
+		System.out.println(" 0. Exit \n 1. Character Array \n 2. Number Array \n 3. Mirror Inverse \n ");
+		System.out.print("Enter Your Choice : ");
+
+         Scanner s1 = new Scanner(System.in);
+          a = s1.nextInt();
+          if(a==1)
+          {
+         	 ca h = new ca();
+         	 h.get();
+          }
+          else if(a==2)
+         {
+		ea c = new ea();
+		c.get();
+         }
+         else if(a==0)
+         {
+        	 System.exit(0);
+         }
+         else if(a==3)
+         {
+        	 MI h = new MI();
+        	 h.get();
+         }
+		}while(a!=0);
+	}
+
+}
+class ea extends ArrayEx{
 //	ea(){
 //		System.out.println("			!!  Number Array   !!");
 //	}
