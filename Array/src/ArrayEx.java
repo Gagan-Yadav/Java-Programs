@@ -1,8 +1,7 @@
 import java.util.Scanner;
-//
-//public class ArrayEx {
-//	 
-//
+
+public class ArrayEx {
+
 //	public static void main(String[] args) {
 //		MI a1 = new MI();
 //		int a=0;
