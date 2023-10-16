@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class ArrayEx {
 
-//	public static void main(String[] args) {
-//		MI a1 = new MI();
-//		int a=0;
+	public static void main(String[] args) {
+		MI a1 = new MI();
+		int a=0;
 //		do {
 //		System.out.println(" 0. Exit \n 1. Character Array \n 2. Number Array \n 3. Mirror Inverse \n ");
 //		System.out.print("Enter Your Choice : ");
