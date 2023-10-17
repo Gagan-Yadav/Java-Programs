@@ -15,7 +15,6 @@ public class Bubble {
 			System.out.println(" elemnts at "+i+" = "+arr[i]);
 		}
 		
-		
 		System.out.println("\n  Sorting Begins Here \n");
 		
 		for(int k =0;k<arr.length;k++) {
