@@ -1,17 +1,3 @@
-
-
-
-
-
-s
-s
-	
-
-
-s
-
-	
-
 public class Pattern {
 
 	public static void main(String[] args) {
