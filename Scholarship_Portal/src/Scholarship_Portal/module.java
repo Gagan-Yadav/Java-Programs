@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 package Scholarship_Portal;
 
 import java.awt.Color;
